@@ -15,6 +15,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,5 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
