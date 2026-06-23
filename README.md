@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RealHarsh007/Total_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -40,6 +42,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
 ## Matrix
