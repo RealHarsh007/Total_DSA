@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/RealHarsh007/Total_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/RealHarsh007/Total_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RealHarsh007/Total_DSA/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
