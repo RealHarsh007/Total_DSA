@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/RealHarsh007/Total_DSA/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/RealHarsh007/Total_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@
 | [0075-sort-colors](https://github.com/RealHarsh007/Total_DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/RealHarsh007/Total_DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RealHarsh007/Total_DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/RealHarsh007/Total_DSA/tree/master/0242-valid-anagram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/RealHarsh007/Total_DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
