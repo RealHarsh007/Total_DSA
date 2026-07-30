@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/RealHarsh007/Total_DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/RealHarsh007/Total_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -58,6 +59,7 @@
 | [0125-valid-palindrome](https://github.com/RealHarsh007/Total_DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
