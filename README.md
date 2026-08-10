@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/RealHarsh007/Total_DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RealHarsh007/Total_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -39,6 +40,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RealHarsh007/Total_DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RealHarsh007/Total_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/RealHarsh007/Total_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/RealHarsh007/Total_DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -84,6 +87,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/RealHarsh007/Total_DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RealHarsh007/Total_DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
