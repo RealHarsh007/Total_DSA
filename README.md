@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RealHarsh007/Total_DSA/tree/master/0014-longest-common-prefix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RealHarsh007/Total_DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
