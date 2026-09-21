@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/RealHarsh007/Total_DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RealHarsh007/Total_DSA/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/RealHarsh007/Total_DSA/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/RealHarsh007/Total_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RealHarsh007/Total_DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/RealHarsh007/Total_DSA/tree/master/0075-sort-colors) |
@@ -133,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/RealHarsh007/Total_DSA/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
