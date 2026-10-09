@@ -73,6 +73,7 @@
 | [0283-move-zeroes](https://github.com/RealHarsh007/Total_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/RealHarsh007/Total_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/RealHarsh007/Total_DSA/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/RealHarsh007/Total_DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/RealHarsh007/Total_DSA/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/RealHarsh007/Total_DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
